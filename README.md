@@ -3,7 +3,7 @@
 
 ## [2016 Decentralized Web](https://2016.decentralizedweb.net/learn-more/)
 
-* https://github.com/internetarchive/dwebsummit-site/blob/master/contents/science-fair/index.md
+* https://github.com/internetarchive/dwebsummit-site/blob/master/contents/science-fair/index.md\
 This is the full listing of headings below (in markdown\yaml).  ^^^ 
 
 ### #RebootingWebOfTrust
