@@ -18,23 +18,28 @@ a start at gathering information on decentralized web...
 ### [Blockstack](https://blockstack.org/)
 
 >**To build a new, secure Web.**
+
 >Blockstack is an application stack for decentralized, server-less apps secured by the blockchain. Blockstack provides services for naming, identity, authentication, and storage without trusting any third-parties. Team Members: Muneeb Ali, Ryan Shea, Jude Nelson, Guy Lepage
 
 ### [CoMakery](https://www.comakery.com/missions/1)
 >**CoMakery allows communities of creators to share equity as easily as using currency**
+
 >CoMakery is decentralized platform that rewards project creators for collaborating with each other. We enable tracking and trading of sweat equity with Ethereum tokens. We are integrating with DAOs and cryptocurrency exchanges. We are evolving new models for helping decentralizing collaborative... Read more.
 
 ### [Dat Project](https://dat.foundation/)
 >**Dat is an open source, decentralized data tool for distributing datasets small and large.**
+
 >Dat is an open source, decentralized data-sharing tool for versioning and syncing data. Inspired by the best parts of Git and BitTorrent, Dat shares data through a free, redundant network that assures the integrity and openness of data. It uses cryptographic fingerprinting to generate a unique global link for the data. Dat includes a desktop application, command line tool, and client libraries in Python and R. Team Members: Max Ogden, Mathias Buus, Karissa McKelvey, Julian Gruber, Lauren Garcia, Kriesse Schneider, Joe Hand
 
 ### [LevelNews.org](https://levelnews.org)
 >**Decentralization & Libraries**
+
 >To help make connections between decentralized projects and potential civic partners in the form of libraries.
 One of the challenges with decentralized projects is to find users to scale or stabilize the network. Libraries could provide stable, reliable platforms for decentralized projects that support the overall network and as entry points for community users. 
 
 ### Decentralized Autonomous Society
 >**Enabling autonomy via decentralized technology**
+
 >The Decentralized Autonomous Society is a distributed thinktank that also has regular meetups in Palo Alto. It has the broad goal of facilitating new types of governance that are made possible via decentralized technologies. It was founded in the early days of Ethereum. Team Members: Joel Dietz, Philip Saunders, Moritz Bierling, Tristan Roberts, Dakota Kaiser
 
 [![](https://imgur.com/jPwLX6G.png)](https://vimeo.com/119177740)
@@ -44,6 +49,7 @@ One of the challenges with decentralized projects is to find users to scale or s
 
 ### ETH CORE LIMITED
 >**To enable businesses and organisations to capitalise on blockchain technology and benefit from the new opportunities it presents.**
+
 >Ethcore Ltd. was created to undertake and further exploit the use of blockchain technology for commercial, financial and institutional purposes. Its mission is to enable businesses and organisations to capitalise on blockchain technology and benefit from the new opportunities it presents. It was founded by many of the core technical and operational staff of the Ethereum Foundation, which is the non-profit that created the Ethereum Platform. Ethcore’s team also covers legal, finances and business development expertise.
 >
 >We're creating the world's fastest and lightest Ethereum client. Written in the sophisticated, cutting-edge Rust language, we can push the limits of reliability, performance and code clarity all at once. Currently available for Ubuntu/Debian, OSX and as a Docker container, Parity can be used to sync with both Homestead and Morden networks, can mine when used with ethminer, can power a Web3 Javascript console when used with eth attach and can be used for Ethereum JSONRPC applications such as a netstats client.
@@ -53,6 +59,7 @@ One of the challenges with decentralized projects is to find users to scale or s
 ### EdgeD
 
 >**Explore monitoring and learning at the edges**
+
 >This is an exploratory prototyping research project focused on decentralizing data collection, analysis, and monitoring. The hypothesis is that a radically decentralized, stream-oriented, functional-programming data architecture deployed at the edges of the Internet can support a wide-variety of high volume/high velocity/high variability (i.e., Big Data) data-centric applications effectively and scalably.
 >
 >To a large extent, it is a descendant of Croquet - a decentralized real-time computing platform for scalable shared virtual environments - which was also deployed at the edges of the network, without central servers. Croquet demonstrated that a shared, fully user-programmable 3D virtual world could be effectively implemented in a collective platform composed of the users' computers, connected peer-to-peer. The underlying architecture (TeaTime) was based on replicated data and replicated computing embedded in an extension of the Squeak-Smalltalk computing environment.
@@ -64,12 +71,14 @@ One of the challenges with decentralized projects is to find users to scale or s
 ### [FactChain](https://factchain.com/)
 
 >**Curating authentic signals in the accelerating noise: preservation and access to trustworthy collective memory.**
+
 >A service, platform, app, and/or protocol (early R&D phase) for applying the archival and recordkeeping principles of authenticity, reliability, identity, and provenance to the emerging blend of peer-to-peer, IoT, Big Data, AI, robotics, virtual reality, genome and nano technologies which will make it increasingly difficult to tell fact from fantasy, truth from lies, human perception from machine reality, and to preserve a trustworthy collective memory as our transhumanist selves hurdle into the singularity and enter into uncharted territories of experience.
 
 ### [Freenet](https://freenetproject.org/)
 
 >**Freenet is a decentralized distributed data store for censorship-resistant communication.**
-Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship. Freenet is decentralised to make it less vulnerable to attack, and if used in "darknet" mode, where users only connect to their friends, is very difficult to detect.
+
+>Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship. Freenet is decentralised to make it less vulnerable to attack, and if used in "darknet" mode, where users only connect to their friends, is very difficult to detect.
 >
 >Michael Grube, Dan Roberts, Many Others
 
@@ -77,14 +86,16 @@ Freenet is free software which lets you anonymously share files, browse and publ
 ### [Hyperledger Project](https://www.hyperledger.org/)
 
 >**Blockchain technology stack focused on pluggable consensus mechanisms, smart contract vms, and security models**
+
 >The Hyperledger Project is an open source collaborative project hosted by the Linux Foundation. Its goal is to foster the development of a blockchain platform that could be useful to a wide variety of use cases and related projects, by allowing certain parameters (choice of consensus mechanism, choice of language for smart contracts, security model, perhaps more) to be configurable modules to a common framework. We are starting with a codebase built for permissioned-chain needs, but we have a strong desire to work with other blockchain efforts to share code.
 
 ### [Hypothes.is](https://web.hypothes.is/about/)
 
 >**We are bringing an open, collaborative annotation layer to the Web and all the knowledge therein.**
+
 >Hypothesis brings universal (all content, all formats, all browsers and many native applications), in-place annotation to anything accessible on the web. We envision and enable an interoperable, shared layer over all knowledge where users can tag, comment on, and discuss documents, in public or in private, individually or in teams. We have built a standard toolset that stores annotations in the cloud, under users’ control, and displays them as an overlay on content wherever it resides – in the open or behind paywalls. This interoperable layer enables both conversational and computational annotation, powerfully augmenting workflows in scholarly discourse, investigative journalism, the classroom, and many other areas.
 
-Our efforts are based on the Annotator project, which we are principal contributors to, and annotation standards for digital documents being developed by the W3C Web Annotation Working Group. We are partnering broadly with developers, publishers, academic institutions, researchers, and individuals to bring this new capability to bear on diverse use cases.
+>Our efforts are based on the Annotator project, which we are principal contributors to, and annotation standards for digital documents being developed by the W3C Web Annotation Working Group. We are partnering broadly with developers, publishers, academic institutions, researchers, and individuals to bring this new capability to bear on diverse use cases.
 
 ### [IPDB: The Interplanetary Database](https://www.bigchaindb.com/whitepaper/)
 
@@ -166,35 +177,73 @@ Interledger is the protocol suite for connecting blockchains, payment networks, 
 >
 >Certbot is an easy-to-use automatic client that fetches and deploys SSL/TLS certificates for your webserver. Certbot was developed by EFF and others as a client for Let’s Encrypt and was previously known as “the official Let’s Encrypt client” or “the Let’s Encrypt Python client.” Certbot will also work with any other CAs that support the ACME protocol.
 
-### Mediachain
-Mediachain is a universal media library that utilizes content ID technology.
-Every day billions of images, songs, videos, and written works are shared online, but they quickly lose connection to their creator or any information about them as they are reposted. What if all data about media was completely open and decentralized, and developers could utilize the technology... Read more.
+### [Mediachain](http://www.mediachain.io/)
 
-### Mozilla
-Build a layer of the Internet that is a global public resource, open and accessible to all
-Our mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
+>**Mediachain is a universal media library that utilizes content ID technology.**
 
-### Namecoin
-Decentralized naming system based on Bitcoin algorithms, code, and threat model
-Namecoin is the first naming system that is simultaneously global (everyone gets the same result for the same lookup), decentralized (no central party decides which names map to which values), and human-meaningful (names aren't just a hash or something similarly opaque to humans). Previous naming... Read more.
+>What if all data about media was completely open and decentralized, and developers could utilize the technology behind Shazam or Google Image Search to easily retrieve it? We’d know who made what, its history, or even how to pay the creator, in a completely decentralized, programmable way.
 
-### Nodesphere
-Nodesphere is an interoperability toolkit for creating and sharing
-semantic graphs from a variety of data sources. Both a protocol and open
-source codebase in early stage, it has three primary objectives:
+>Mediachain combines a decentralized media library with open content identification technology to enable collaboratively registering, identifying, and tracking creative works online. In turn, developers can automate attribution, preserve history, provide creators and organizations with rich analytics about how their content is being used, and even create a channel for exchanging value directly through content, no matter where it is.
 
-### SAFE Network
-Security and privacy focused decentralized storage and communications platform
-The SAFE Network is a decentralized network with user privacy and data security as its core. A decade of research and development has culminated into a platform which securely and anonymously distributes data globally while providing a sustainable economic system for the resources contributed by the... Read more.
+### [Mozilla](https://www.mozilla.org)
 
+>**Build a layer of the Internet that is a global public resource, open and accessible to all**
 
-### SwellRT
-Development Framework for building Decentralized Real-time Collaborative Apps
-Building decentralized software is hard. Development frameworks are built thinking in centralized apps, moreover when thinking of collaborative apps. SwellRT is a development framework for building decentralized real-time collaborative apps, very easily and avoiding extra code to the developer.... Read more.
+>Our mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
+>
+>At Mozilla, we’re a global community of technologists, thinkers and builders working together to keep the Internet alive and accessible, so people worldwide can be informed contributors and creators of the Web. We believe this act of human collaboration across an open platform is essential to individual growth and our collective future.
 
-### Tahoe-LAFS
-distributed encrypted storage
-Tahoe-LAFS (https://tahoe-lafs.org) is a system to store files and directories across multiple untrusted servers. Data is redundantly erasure-coded to be available even if some servers fail, and is encrypted to prevent server operators from learning or modifying your files.
+### [Namecoin](https://namecoin.org)
+
+>**Decentralized naming system based on Bitcoin algorithms, code, and threat model**
+>
+>Namecoin is the first naming system that is simultaneously global (everyone gets the same result for the same lookup), decentralized (no central party decides which names map to which values), and human-meaningful (names aren't just a hash or something similarly opaque to humans). Previous naming systems such as the standard DNS system, .onion, and .i2p are unable to simultaneously achieve all 3 of these properties.
+>
+>Namecoin achieves this by recognizing that Bitcoin's achievement of a decentralized consensus (via a Nakamoto blockchain) has applications outside of the financial system, including naming. Namecoin was the first fork of Bitcoin (we forked Bitcoin before it was cool), and extends Bitcoin's blockchain validation rules to allow coins to represent human-readable names with arbitrary values attached. The Namecoin blockchain validation rules enforce that all transactions in the blockchain honor uniqueness of names, and that only the owner of a name can update its value. Namecoin's threat model is very similar to that of Bitcoin: like Bitcoin, Namecoin is mined via SHA256D proof-of-work, and inclusion in the blockchain of a transaction (even if checked via a lightweight client) implies that miners have verified the transaction's correctness.
+>
+>Namecoin's current and proposed use cases include DNS, replacing HTTPS certificate authorities, providing DNS for non-IP protocols such as Tor hidden services, I2P, and Freenet, public key verification for protocols such as PGP and OTR, and single sign-on for website users.
+
+### [Nodesphere](https://github.com/nodesphere/nodesphere#readme)
+
+> Nodesphere is an interoperability toolkit for creating and sharing semantic graphs from a variety of data sources. Both a protocol and open source codebase in early stage, it has three primary objectives:
+>
+> 1. Create interoperability among graph visualization interfaces
+> 
+> 2. Provide adaptors to connect these interfaces to personal data
+ecosystems, including browsing history, social network data, cloud
+storage, and ultimately, any public or private data
+>
+> 3. Abstract data sources into semantically linked unified dashboards,
+facilitating the transition from traditional server & database systems
+toward secure, distributed public and private storage, as these systems
+become practical and performant
+
+### [SAFE Network](https://maidsafe.net/)
+
+>**Security and privacy focused decentralized storage and communications platform**
+>
+>The SAFE Network is a decentralized network with user privacy and data security as its core. A decade of research and development has culminated into a platform which securely and anonymously distributes data globally while providing a sustainable economic system for the resources contributed by the users. Third party developers have opportunity to build applications which retain these security and privacy features by default on top of a network that is commonly owned by the global community of users.
+>
+>Several innovations power this platform including third-party-less authentication, sharable client side encryption of data, obfuscated global routing, consensus-based data reliability and an economic system for user and developer incentives. While the release candidate will see a network facilitating decentralized storage, communication and asset transfer, a future goal will implement computation allowing for a truly decentralized alternative to the exiting Internet.
+>
+>The current testing period allows for users to experience basic interfaces and even upload a website viewable in most browsers while developers can work with the exposed API to start integrating existing or building new applications which replace central storage needs in servers. The focus on inherent security allows developers to alleviate liability of user data and the users themselves to be safe from censorship or surveillance.
+
+### [SwellRT](http://swellrt.org/)
+
+>**Development Framework for building Decentralized Real-time Collaborative Apps**
+
+>Building decentralized software is hard. Development frameworks are built thinking in centralized apps, moreover when thinking of collaborative apps. SwellRT is a development framework for building decentralized real-time collaborative apps, very easily and avoiding extra code to the developer. SwellRT provides a server side (storage, sharing, identity, federation) and an API to build apps in JavaScript, Java or Android. Think of Google Drive RT API or Firebase but decentralized & open source.
+
+>Its main principle is to hide all technical complexity of decentralization, allowing developers to keep focus on valuable service features. This is achieved thanks to:
+>- Out-of-the-box integrated Open Source solutions and standards for communication (WebSockets), concurrency control (Wave Protocol), storage, identity and federation (Matrix.org)
+>- Provide an easy and plain (but powerful) decentralized programming model, not requiring special training for developers.
+>- Give an API extremely easy to use in current platforms and apps, taking advantage of latests perks of programming languages such as JavaScript Proxies.
+
+### [Tahoe-LAFS](https://tahoe-lafs.org)
+
+>**distributed encrypted storage**
+
+>Tahoe-LAFS (https://tahoe-lafs.org) is a system to store files and directories across multiple untrusted servers. Data is redundantly erasure-coded to be available even if some servers fail, and is encrypted to prevent server operators from learning or modifying your files.
 
 ### The Tor Project
 Tor provides anonymity, privacy, and censorship circumvention technology.
