@@ -45,7 +45,7 @@ One of the challenges with decentralized projects is to find users to scale or s
 [![](https://imgur.com/jPwLX6G.png)](https://vimeo.com/119177740)
 
 * [http://wiki.p2pfoundation.net/Swarm](http://wiki.p2pfoundation.net/Swarm)
-
+* https://blog.p2pfoundation.net/the-real-world-of-the-decentralized-autonomous-society/2017/09/06
 
 ### ETH CORE LIMITED
 >**To enable businesses and organisations to capitalise on blockchain technology and benefit from the new opportunities it presents.**
@@ -147,11 +147,11 @@ One of the challenges with decentralized projects is to find users to scale or s
 >* ✨ Plurality. With IndieWebCamp we've specifically chosen to encourage and embrace a diversity of approaches & implementations. This background makes the IndieWeb stronger and more resilient than any one (often monoculture) approach.
 >* 🎉 Have fun. Remember that GeoCities page you built back in the mid-90s? The one with the Java applets, garish green background and seventeen animated GIFs? It may have been ugly, badly coded and sucky, but it was fun, damnit. Keep the web weird and interesting.
 
-Amber Case, Kevin Marks, Amy Guy, Dan Gillmor
+>Amber Case, Kevin Marks, Amy Guy, Dan Gillmor
 
 ### [Interledger](https://interledger.org/)
 
-Send money to anyone, on any payment network or ledger, as easily as sending them a packet of data over the Internet.
+>Send money to anyone, on any payment network or ledger, as easily as sending them a packet of data over the Internet.
 Interledger is the protocol suite for connecting blockchains, payment networks, and other ledgers. Interledger enables payments between parties on different ledgers, meaning developers can build payments into other protocols and apps without being tied to a single payment provider or currency. Interledger is inspired by the designs of IP, TCP, etc and aims to connect the world’s ledgers like the internet protocols connected its information networks.
 
 ### [Jolocom](https://jolocom.io/)
@@ -245,24 +245,58 @@ become practical and performant
 
 >Tahoe-LAFS (https://tahoe-lafs.org) is a system to store files and directories across multiple untrusted servers. Data is redundantly erasure-coded to be available even if some servers fail, and is encrypted to prevent server operators from learning or modifying your files.
 
-### The Tor Project
-Tor provides anonymity, privacy, and censorship circumvention technology.
-The Tor Project produces anonymity software that makes use of the Tor anonymity network. The Tor Network is a collection of thousands of relays run by volunteers all over the world.
+### [The Tor Project](https://www.torproject.org/)
 
-#### WebTorrent
-Torrents in your web browser
-What is WebTorrent?
+>**Tor provides anonymity, privacy, and censorship circumvention technology.**
+>
+>The Tor Project produces anonymity software that makes use of the Tor anonymity network. The Tor Network is a collection of thousands of relays run by volunteers all over the world.
+>
+>Our most popular piece of software is the Tor Browser - a Firefox-based Tor-enabled web browser with additional protections against third party tracking and fingerprinting, as well as additional security features.
+>
+>However, The Tor software and protocols are capable of much more interesting use cases for fully decentralized systems. Every Tor client is capable of creating "onion services", which are location-anonymous, encrypted, self-authenticating TCP-like communication endpoints that can enable common P2P Internet applications to operate over the Tor network in a decentralized and metadata-free fashion.
+>
+>Interesting examples include an encrypted and metadata-free chat application called Ricochet, as well as an encrypted and metadata-free secure file sharing app called OnionShare.
 
-WebTorrent is the first torrent client that works in the browser. YEP, THAT'S RIGHT. THE BROWSER.
+>* https://www.torproject.org/about/corepeople.html.en
 
-It's written completely in JavaScript – the language of the web – and uses WebRTC for true peer-to-peer transport. No browser plugin, extension, or installation is... Read more.
+#### [WebTorrent](https://webtorrent.io/)
 
-### Zcash
-censorship-resistant money, smart contracts, and shared database
-Zcash is a cryptocurrency with selective transparency. Transactions that are posted to the blockchain are encrypted, and the creator of the transaction can disclose the decryption keys to selected parties so that they can see the contents of the transaction.
+>**Torrents in your web browser**
+>
+>What is WebTorrent?
+>
+>WebTorrent is the first torrent client that works in the browser. YEP, THAT'S RIGHT. THE BROWSER.
+>
+>It's written completely in JavaScript – the language of the web – and uses WebRTC for true peer-to-peer transport. No browser plugin, extension, or installation is required.
+>
+>Using open web standards, WebTorrent connects website users together to form a distributed, decentralized browser-to-browser network for efficient file transfer.
 
-### ZeroNet
-Real-time updated, decentralized web pages
-ZeroNet allows you to create decentralized, P2P and real-time updated websites using Bitcoin's cryptography and the BitTorrent network. 
+### [Zcash](https://z.cash/)
 
-One of the main goal of the project is providing fast and enjoyable user experience without any configuration or technical needs. 
+>**censorship-resistant money, smart contracts, and shared database**
+>
+>Zcash is a cryptocurrency with selective transparency. Transactions that are posted to the blockchain are encrypted, and the creator of the transaction can disclose the decryption keys to selected parties so that they can see the contents of the transaction.
+>
+>Everyone else can see only an encrypted transaction that reveals nothing about the sender, recipient, value transferred, or the attached metadata. Therefore everyone else (who hasn't been provided with the decryption key) cannot link transactions with one another (for example, can't tell if two transactions were performed by the same party or different parties).
+>
+>Zero-knowledge proofs are used to prevent cheating -- each encrypted transaction comes with a zero-knowledge proof that the transaction doesn't create money out of thin air nor double-spend money.
+>
+>This design has the following consequences:
+>
+>* Censorship-resistant digital cash. Anyone can pay anyone else, without requiring permission and without fear of their transactions being spied on.
+>
+>* Fungibility. Because the flow of money is not (usually) traceable very far back into history, you can rely on your Zcash to be worth face value -- worth as much as any other Zcash -- when you try to use it.
+>
+>* Selective transparency. The blockchain is a shared database, a "single source of truth" that all users have consensus about. And the contents of the blockchain can be selectively revealed to chosen parties instead of being globally readable.
+
+### [ZeroNet](https://zeronet.io/)
+
+> **Real-time updated, decentralized web pages**
+>
+>ZeroNet allows you to create decentralized, P2P and real-time updated websites using Bitcoin's cryptography and the BitTorrent network.
+One of the main goal of the project is providing fast and enjoyable user experience without any configuration or technical needs.
+>
+>For more complex websites ZeroNet offers a P2P synchronized, SQL database and the users anonymity ensured by the full Tor network support (.onion address peers).
+Every website of the network is offline compatible, the internet connection is only required if you want to publish you new content to the network.
+>
+>The project started in 2015, it's currently features decentralized blogs, forums, polls and end-to-end encrypted messaging sites.
