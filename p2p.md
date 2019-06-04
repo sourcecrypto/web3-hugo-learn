@@ -31,6 +31,7 @@ The events through the 1980s expose the need for an all-encompassing internet ro
 
 ### 2nd Gen - Decentralized
 
+* 2000 - Gnutella
 * 2002 eMule (uses edonkey servers and has its own decentralized network)
   > [What is eMule?](https://www.emule-project.net/home/perl/general.cgi?l=1)
   > At dawn of  May 13th 2002 a guy called Merkur was dissatisfied with the original eDonkey2000 client and was convinced he could do better. So he did. He gathered other developers around him, and eMule Project was born. Their aim was to put the client back on track where eDonkey had been famous before, adding tons of new features and a nice GUI. They couldn't imagine what impact this decision would have...
