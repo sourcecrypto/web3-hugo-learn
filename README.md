@@ -1,9 +1,7 @@
 # decentralized-web
 
 
-## 2016 Decentralized Web
-
-* [2016 Decentralized Web](https://2016.decentralizedweb.net/learn-more/)
+## [2016 Decentralized Web](https://2016.decentralizedweb.net/learn-more/)
 
 ### #RebootingWebOfTrust
 At each Rebooting the Web of Trust event we collaboratively create white papers and specifications on topics that will have the greatest impact on the future of self-sovereign identity.
