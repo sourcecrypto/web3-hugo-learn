@@ -3,6 +3,8 @@
 * https://p2pfoundation.net
 * https://beincrypto.com/from-napster-to-bitcoin-the-evolution-of-peer-to-peer-networks/ (not the best)
 
+
+
 ## Pre-History
 https://datapath.io/resources/blog/the-history-of-border-gateway-protocol/
 * ARPANet 1969 ( or 1971 )
@@ -23,11 +25,16 @@ The events through the 1980s expose the need for an all-encompassing internet ro
 
 ### 1st Gen - Centralized
 
-* June 1, 1999, Napster 
+* [June 1, 1999, Napster](https://www.lifewire.com/history-of-napster-2438592)
+  > Napster had a very different face when it first came into existence in 1999. The developers of the original Napster (brothers Shawn and John Fanning, along with Sean Parker) launched the service as a peer-to-peer (P2P) file sharing network. The software application was easy to use with a free account, and it was specifically designed for sharing digital music files (in the MP3 format) across a Web-connected network.
 * Sep 6, 2000, eDonkey2000 - Sued for copyright infringement.
+
 
 ### 2nd Gen - Decentralized
 
+* 2002 eMule (uses edonkey servers and has its own decentralized network)
+  > [What is eMule?](https://www.emule-project.net/home/perl/general.cgi?l=1)
+  > At dawn of  May 13th 2002 a guy called Merkur was dissatisfied with the original eDonkey2000 client and was convinced he could do better. So he did. He gathered other developers around him, and eMule Project was born. Their aim was to put the client back on track where eDonkey had been famous before, adding tons of new features and a nice GUI. They couldn't imagine what impact this decision would have...
 * Bittorent
 * Kazaa
 * Limewire
