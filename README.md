@@ -1,94 +1,169 @@
 # decentralized-web
 
+a start at gathering information on decentralized web... 
+
+* [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web)
 
 ## [2016 Decentralized Web](https://2016.decentralizedweb.net/learn-more/)
 
 * https://github.com/internetarchive/dwebsummit-site/
 
-### #RebootingWebOfTrust
-At each Rebooting the Web of Trust event we collaboratively create white papers and specifications on topics that will have the greatest impact on the future of self-sovereign identity.
-WHAT IS WEB-OF-TRUST
+### [#RebootingWebOfTrust](https://github.com/WebofTrustInfo/)
 
-The Web of Trust is a buzzword for a new model of decentralized identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP. But some use it as a term to include identity authentication & verification, certificate... Read more.
+>At each Rebooting the Web of Trust event we collaboratively create white papers and specifications on topics that will have the greatest impact on the future of self-sovereign identity.
+>**WHAT IS WEB-OF-TRUST**
+>
+>The Web of Trust is a buzzword for a new model of decentralized identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP. But some use it as a term to include identity authentication & verification, certificate... Read more.
 
-### Blockstack
-To build a new, secure Web.
-Blockstack is an application stack for decentralized, server-less apps secured by the blockchain. Blockstack provides services for naming, identity, authentication, and storage without trusting any third-parties. Team Members: Muneeb Ali, Ryan Shea, Jude Nelson, Guy Lepage
+### [Blockstack](https://blockstack.org/)
 
-### CoMakery
-CoMakery allows communities of creators to share equity as easily as using currency
-CoMakery is decentralized platform that rewards project creators for collaborating with each other. We enable tracking and trading of sweat equity with Ethereum tokens. We are integrating with DAOs and cryptocurrency exchanges. We are evolving new models for helping decentralizing collaborative... Read more.
+>**To build a new, secure Web.**
+>Blockstack is an application stack for decentralized, server-less apps secured by the blockchain. Blockstack provides services for naming, identity, authentication, and storage without trusting any third-parties. Team Members: Muneeb Ali, Ryan Shea, Jude Nelson, Guy Lepage
 
-### Dat Project
-Dat is an open source, decentralized data tool for distributing datasets small and large.
-Dat is an open source, decentralized data-sharing tool for versioning and syncing data. Inspired by the best parts of Git and BitTorrent, Dat shares data through a free, redundant network that assures the integrity and openness of data. It uses cryptographic fingerprinting to generate a unique... Read more.
+### [CoMakery](https://www.comakery.com/missions/1)
+>**CoMakery allows communities of creators to share equity as easily as using currency**
+>CoMakery is decentralized platform that rewards project creators for collaborating with each other. We enable tracking and trading of sweat equity with Ethereum tokens. We are integrating with DAOs and cryptocurrency exchanges. We are evolving new models for helping decentralizing collaborative... Read more.
 
-### LevelNews.org
-Decentralization & Libraries
-To help make connections between decentralized projects and potential civic partners in the form of libraries.
+### [Dat Project](https://dat.foundation/)
+>**Dat is an open source, decentralized data tool for distributing datasets small and large.**
+>Dat is an open source, decentralized data-sharing tool for versioning and syncing data. Inspired by the best parts of Git and BitTorrent, Dat shares data through a free, redundant network that assures the integrity and openness of data. It uses cryptographic fingerprinting to generate a unique global link for the data. Dat includes a desktop application, command line tool, and client libraries in Python and R. Team Members: Max Ogden, Mathias Buus, Karissa McKelvey, Julian Gruber, Lauren Garcia, Kriesse Schneider, Joe Hand
+
+### [LevelNews.org](https://levelnews.org)
+>**Decentralization & Libraries**
+>To help make connections between decentralized projects and potential civic partners in the form of libraries.
 One of the challenges with decentralized projects is to find users to scale or stabilize the network. Libraries could provide stable, reliable platforms for decentralized projects that support the overall network and as entry points for community users. 
 
 ### Decentralized Autonomous Society
-Enabling autonomy via decentralized technology
-The Decentralized Autonomous Society is a distributed thinktank that also has regular meetups in Palo Alto. It has the broad goal of facilitating new types of governance that are made possible via decentralized technologies. It was founded in the early days of Ethereum. Team Members: Joel Dietz,... Read more.
+>**Enabling autonomy via decentralized technology**
+>The Decentralized Autonomous Society is a distributed thinktank that also has regular meetups in Palo Alto. It has the broad goal of facilitating new types of governance that are made possible via decentralized technologies. It was founded in the early days of Ethereum. Team Members: Joel Dietz, Philip Saunders, Moritz Bierling, Tristan Roberts, Dakota Kaiser
+
+[![](https://imgur.com/jPwLX6G.png)](https://vimeo.com/119177740)
+
+* [http://wiki.p2pfoundation.net/Swarm](http://wiki.p2pfoundation.net/Swarm)
 
 
 ### ETH CORE LIMITED
-To enable businesses and organisations to capitalise on blockchain technology and benefit from the new opportunities it presents.
-
-Ethcore Ltd. was created to undertake and further exploit the use of blockchain technology for commercial, financial and institutional purposes. Its mission is to enable businesses and organisations to capitalise on blockchain technology and benefit from the new opportunities it presents. It was... Read more.
+>**To enable businesses and organisations to capitalise on blockchain technology and benefit from the new opportunities it presents.**
+>Ethcore Ltd. was created to undertake and further exploit the use of blockchain technology for commercial, financial and institutional purposes. Its mission is to enable businesses and organisations to capitalise on blockchain technology and benefit from the new opportunities it presents. It was founded by many of the core technical and operational staff of the Ethereum Foundation, which is the non-profit that created the Ethereum Platform. Ethcore’s team also covers legal, finances and business development expertise.
+>
+>We're creating the world's fastest and lightest Ethereum client. Written in the sophisticated, cutting-edge Rust language, we can push the limits of reliability, performance and code clarity all at once. Currently available for Ubuntu/Debian, OSX and as a Docker container, Parity can be used to sync with both Homestead and Morden networks, can mine when used with ethminer, can power a Web3 Javascript console when used with eth attach and can be used for Ethereum JSONRPC applications such as a netstats client.
+>
+>Team Members: Dr. Gavin Wood, Dr. Jutta Steiner, Kenneth Kappler, TJ Saw, Dr. Aeron Buchanan, Arkadiy Paronyan, Marek Kotewicz, Konstantin Kudryavtsev, Tomasz Drwięga, Nikolay Volf
 
 ### EdgeD
-Explore monitoring and learning at the edges
-This is an exploratory prototyping research project focused on decentralizing data collection, analysis, and monitoring. The hypothesis is that a radically decentralized, stream-oriented, functional-programming data architecture deployed at the edges of the Internet can support a wide-variety of... Read more.
 
-### FactChain
-Curating authentic signals in the accelerating noise: preservation and access to trustworthy collective memory.
-A service, platform, app, and/or protocol (early R&D phase) for applying the archival and recordkeeping principles of authenticity, reliability, identity, and provenance to the emerging blend of peer-to-peer, IoT, Big Data, AI, robotics, virtual reality, genome and nano technologies which will make... Read more.
+>**Explore monitoring and learning at the edges**
+>This is an exploratory prototyping research project focused on decentralizing data collection, analysis, and monitoring. The hypothesis is that a radically decentralized, stream-oriented, functional-programming data architecture deployed at the edges of the Internet can support a wide-variety of high volume/high velocity/high variability (i.e., Big Data) data-centric applications effectively and scalably.
+>
+>To a large extent, it is a descendant of Croquet - a decentralized real-time computing platform for scalable shared virtual environments - which was also deployed at the edges of the network, without central servers. Croquet demonstrated that a shared, fully user-programmable 3D virtual world could be effectively implemented in a collective platform composed of the users' computers, connected peer-to-peer. The underlying architecture (TeaTime) was based on replicated data and replicated computing embedded in an extension of the Squeak-Smalltalk computing environment.
+>
+>While Croquet was designed for focused interaction among people, EdgeD is focused on collecting, persisting, and modeling high velocity data flows, such as might arise in the future from network-connected sensors and actuators. As such, privacy, security, availability, and reliability are important aspects of any future-oriented platform.
+>
+>The EdgeD project is at an early conceptual stage, and is not yet ready to absorb additional participants.
 
+### [FactChain](https://factchain.com/)
 
-### Freenet
-Freenet is a decentralized distributed data store for censorship-resistant communication.
-Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship. Freenet is decentralised to make it less vulnerable to attack, and if used in "darknet" mode, where users only... Read more.
+>**Curating authentic signals in the accelerating noise: preservation and access to trustworthy collective memory.**
+>A service, platform, app, and/or protocol (early R&D phase) for applying the archival and recordkeeping principles of authenticity, reliability, identity, and provenance to the emerging blend of peer-to-peer, IoT, Big Data, AI, robotics, virtual reality, genome and nano technologies which will make it increasingly difficult to tell fact from fantasy, truth from lies, human perception from machine reality, and to preserve a trustworthy collective memory as our transhumanist selves hurdle into the singularity and enter into uncharted territories of experience.
 
+### [Freenet](https://freenetproject.org/)
 
-### Hyperledger Project
-Blockchain technology stack focused on pluggable consensus mechanisms, smart contract vms, and security models
-The Hyperledger Project is an open source collaborative project hosted by the Linux Foundation. Its goal is to foster the development of a blockchain platform that could be useful to a wide variety of use cases and related projects, by allowing certain parameters (choice of consensus mechanism,... Read more.
-
-### Hypothes.is
-We are bringing an open, collaborative annotation layer to the Web and all the knowledge therein.
-Hypothesis brings universal (all content, all formats, all browsers and many native applications), in-place annotation to anything accessible on the web. We envision and enable an interoperable, shared layer over all knowledge where users can tag, comment on, and discuss documents, in public or in... Read more.
-
-### IPDB: The Interplanetary Database
-A database for the decentralized stack (or world computer).
-"Overview:
-IPDB is a global database for everyone, everywhere. It is built with identity and creators in mind. It allows the management of personal data, reputation, and privacy, along with secure attribution, metadata, licensing, and links to media files. It’s also flexible: the ultimate... Read more.
+>**Freenet is a decentralized distributed data store for censorship-resistant communication.**
+Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship. Freenet is decentralised to make it less vulnerable to attack, and if used in "darknet" mode, where users only connect to their friends, is very difficult to detect.
+>
+>Michael Grube, Dan Roberts, Many Others
 
 
-### IPFS - The InterPlanetary File System
-a next-generation hypermedia protocol to make the Web faster, safer, decentralized, and permanent.
-IPFS -- the InterPlanetary File System -- is a next-generation web transport protocol to make the Web faster, safer, decentralized, and permanent. It is based on git, bittorrent, and other p2p systems. Content-addressed and signed hyperlinks allow web content and apps to be distributed peer-to-peer,... Read more.
+### [Hyperledger Project](https://www.hyperledger.org/)
 
-### IndieWeb
-a people-focused alternative to the ‘corporate web’.
-Your content is yours
-When you post something on the web, it should belong to you, not a corporation. Too many companies have gone out of business and lost all of their users’ data. By joining the IndieWeb, your content stays yours and in your control.
+>**Blockchain technology stack focused on pluggable consensus mechanisms, smart contract vms, and security models**
+>The Hyperledger Project is an open source collaborative project hosted by the Linux Foundation. Its goal is to foster the development of a blockchain platform that could be useful to a wide variety of use cases and related projects, by allowing certain parameters (choice of consensus mechanism, choice of language for smart contracts, security model, perhaps more) to be configurable modules to a common framework. We are starting with a codebase built for permissioned-chain needs, but we have a strong desire to work with other blockchain efforts to share code.
 
+### [Hypothes.is](https://web.hypothes.is/about/)
 
-### Interledger
+>**We are bringing an open, collaborative annotation layer to the Web and all the knowledge therein.**
+>Hypothesis brings universal (all content, all formats, all browsers and many native applications), in-place annotation to anything accessible on the web. We envision and enable an interoperable, shared layer over all knowledge where users can tag, comment on, and discuss documents, in public or in private, individually or in teams. We have built a standard toolset that stores annotations in the cloud, under users’ control, and displays them as an overlay on content wherever it resides – in the open or behind paywalls. This interoperable layer enables both conversational and computational annotation, powerfully augmenting workflows in scholarly discourse, investigative journalism, the classroom, and many other areas.
+
+Our efforts are based on the Annotator project, which we are principal contributors to, and annotation standards for digital documents being developed by the W3C Web Annotation Working Group. We are partnering broadly with developers, publishers, academic institutions, researchers, and individuals to bring this new capability to bear on diverse use cases.
+
+### [IPDB: The Interplanetary Database](https://www.bigchaindb.com/whitepaper/)
+
+>**A database for the decentralized stack (or world computer).**
+>IPDB is a global database for everyone, everywhere. It is built with identity and creators in mind. It allows the management of personal data, reputation, and privacy, along with secure attribution, metadata, licensing, and links to media files. It’s also flexible: the ultimate applications are up to users' imaginations, for everything from equal-opportunity banking to energy innovation. It is decentralized, so that no one owns or controls the infrastructure. IPDB will provide a queryable database for the decentralized stack, along with IPFS and Swarm for data storage and Ethereum for processing.
+
+### [IPFS - The InterPlanetary File System](https://ipfs.io/)
+
+>**a next-generation hypermedia protocol to make the Web faster, safer, decentralized, and permanent.**
+>IPFS -- the InterPlanetary File System -- is a next-generation web transport protocol to make the Web faster, safer, decentralized, and permanent. It is based on git, bittorrent, and other p2p systems. Content-addressed and signed hyperlinks allow web content and apps to be distributed peer-to-peer, to work without an origin server, to be encrypted end-to-end, to be censorship resistant, to work while offline, and more.
+>
+>IPFS has been hailed by many web developers and network researchers as "the future of the web", as "the next breakthrough protocol", and as "the most exciting project since bitcoin". Though in alpha, hundreds of developers already use IPFS to distribute Billions of files, to make distributed webapps, to archive large datasets, to make dynamic realtime apps, and more. IPFS has a large (400+) open source development community.
+>
+>These are some of the things IPFS already can do or will do in the future:
+>- Decentralized and distributed apps and webapps (no origin server, work in local area networks, do not need infrastructure beyond the brower, etc).
+>- Secure, authenticated transfers (think wget + git + pgp)
+>- Vastly improved network utilization and download speeds
+>- Apps and Webapps that can continue to work in internet-remote environments, through uplink outages, through natural disasters, connectivity disruption, etc.
+>- Give permanence to digital objects (think DOI but cryptographically secure and without a central authority)
+>- Bandwidth sharing for data distribution -- including for web content
+>- Decentralized naming, with no authority (cryptographic names)
+>- Self-archiving web -- Apps, Webapps, and Data that can outlast its creators
+>- Anti-censorship web -- content is not centrally named and can be re-distributed by anyone.
+
+### [IndieWeb](https://indieweb.org)
+
+>**people-focused alternative to the ‘corporate web’.**
+>
+>*Your content is yours*
+>When you post something on the web, it should belong to you, not a corporation. Too many companies have gone out of business and lost all of their users’ data. By joining the IndieWeb, your content stays yours and in your control.
+>
+>*You are better connected*
+>Your articles and status messages can go to all services, not just one, allowing you to engage with everyone. Even replies and likes on other services can come back to your site so they’re all in one place.
+>
+>*You are in control*
+>You can post anything you want, in any format you want, with no one monitoring you. In addition, you share simple readable links such as example.com/ideas These links are permanent and will always work.
+
+>Key principles of building on the indie web, numbered for reference, not necessarily for any kind of priority.
+>✊ Own your data.
+>🔍 Use visible data for humans first, machines second. See also DRY.
+>💪 Build tools for yourself, not for all of your friends. It's extremely hard to fight Metcalfe's law: you won't be able to convince all your friends to join the independent web. But if you build something that satisfies your own needs, but is backwards compatible for people who haven't joined in (say, by practicing POSSE), the time and effort you've spent building your own tools isn't wasted just because others haven't joined in yet.
+>😋 Eat your own dogfood. Whatever you build should be for yourself. If you aren't depending on it, why should anybody else? We call that selfdogfooding. More importantly, build the indieweb around your needs. If you design tools for some hypothetical user, they may not actually exist; if you build tools for yourself, you actually do exist. selfdogfooding is also a form of "proof of work" to help focus on productive interactions.
+>📓 Document your stuff. You've built a place to speak your mind, use it to document your processes, ideas, designs and code. At least document it for your future self.
+>💞 Open source your stuff! You don't have to, of course, but if you like the existence of the indie web, making your code open source means other people can get on the indie web quicker and easier.
+>📐 UX and design is more important than protocols, formats, data models, schema etc. We focus on UX first, and then as we figure that out we build/develop/subset the absolutely simplest, easiest, and most minimal protocols & formats sufficient to support that UX, and nothing more. AKA UX before plumbing.
+>🌐 Build platform agnostic platforms. The more your code is modular and composed of pieces you can swap out, the less dependent you are on a particular device, UI, templating language, API, backend language, storage model, database, platform. The more your code is modular, the greater the chance that at least some of it can and will be re-used, improved, which you can then reincorporate.
+>🗿 Longevity. Build for the long web. If human society is able to preserve ancient papyrus, Victorian photographs and dinosaur bones, we should be able to build web technology that doesn't require us to destroy everything we've done every few years in the name of progress.
+>✨ Plurality. With IndieWebCamp we've specifically chosen to encourage and embrace a diversity of approaches & implementations. This background makes the IndieWeb stronger and more resilient than any one (often monoculture) approach.
+>🎉 Have fun. Remember that GeoCities page you built back in the mid-90s? The one with the Java applets, garish green background and seventeen animated GIFs? It may have been ugly, badly coded and sucky, but it was fun, damnit. Keep the web weird and interesting.
+
+Amber Case, Kevin Marks, Amy Guy, Dan Gillmor
+
+### [Interledger](https://interledger.org/)
+
 Send money to anyone, on any payment network or ledger, as easily as sending them a packet of data over the Internet.
-Interledger is the protocol suite for connecting blockchains, payment networks, and other ledgers. Interledger enables payments between parties on different ledgers, meaning developers can build payments into other protocols and apps without being tied to a single payment provider or currency.... Read more.
+Interledger is the protocol suite for connecting blockchains, payment networks, and other ledgers. Interledger enables payments between parties on different ledgers, meaning developers can build payments into other protocols and apps without being tied to a single payment provider or currency. Interledger is inspired by the designs of IP, TCP, etc and aims to connect the world’s ledgers like the internet protocols connected its information networks.
 
-### Jolocom
-To overcome the challanges induced by proprietary and centralized internet services by empowering users to be in full control over their data using free and open communication standards that promote decentralization.
-Today's internet is dominated by proprietary and centralized services run by private corporations. Many of these companies generate their revenue with the data they receive from users: data is uploaded/stored by the client (the user) to the "cloud" (the service provider). The resulting ecosystem... Read more.
+### [Jolocom](https://jolocom.io/)
 
-### Let's Encrypt/Certbot (EFF)
-Encrypt the entire web.
-Let’s Encrypt is a free, automated, and open certificate authority (CA), run for the public’s benefit. Let's Encrypt provides certificates automatically, for free, using an open standard.
+>To overcome the challanges induced by proprietary and centralized internet services by empowering users to be in full control over their data using free and open communication standards that promote decentralization.
+>Today's internet is dominated by proprietary and centralized services run by private corporations. Many of these companies generate their revenue with the data they receive from users: data is uploaded/stored by the client (the user) to the "cloud" (the service provider). The resulting ecosystem implies several challenging problems:
+>
+>1) When a user uploads data she usually gives up control over it (loss of true ownership).
+>2) The user may then not be able to export/transfer her data to another service provider (vendor locking).
+>3) The user could loose her data altogether should the provider stop it's service (single point of failure).
+>4) When a user signs up for another service she may have to enter the same information repeatedly (data duplication).
+>5) The service provider has to manage more and more user data with changing legal/privacy requirements (cost of data management).
+>6) User data stored at the service provider is bound to become out of date (cost of data quality).
+>7) Service providers that have grown into quasi monopolies tend to inhibit market competition and product diversity (market failure).
+>8) Service provider monopolies are at risk to use their power in ways that are harmful to individuals or society as a whole e.g. through activities of censorship, data manipulation or surveillance (risk of power abuse).
 
-Certbot is an easy-to-use automatic client that fetches and deploys SSL/TLS certificates for your... Read more.
+>The Jolocom project is currently implementing a Solid application as a proof of concept. The current focus is to provide its users with seamless "graph" interaction and to explore how it can be connected to the the existing world. Advanced features such as identity management and distributed search are work in progress. Other decentralized technologies that can enhance the graph are under evaluation (e.g. IPFS for node replication, Blockstack for decentralized DNS, blockchain for managing identities.) Team Members: Annika Hamann, Carla Hubbard, Christian Hildebrand, Eelco Wiersma, Eric Fanghanel, Eugeniu Rusu, Fred Grosskopf, Isabel Stewart, Joachim Lohkamp, Justas Azna, Markus Sabadello
+
+### [Let's Encrypt/Certbot (EFF)](https://letsencrypt.org/)
+
+>**Encrypt the entire web.**
+>Let’s Encrypt is a free, automated, and open certificate authority (CA), run for the public’s benefit. Let's Encrypt provides certificates automatically, for free, using an open standard.
+>
+>Certbot is an easy-to-use automatic client that fetches and deploys SSL/TLS certificates for your webserver. Certbot was developed by EFF and others as a client for Let’s Encrypt and was previously known as “the official Let’s Encrypt client” or “the Let’s Encrypt Python client.” Certbot will also work with any other CAs that support the ACME protocol.
 
 ### Mediachain
 Mediachain is a universal media library that utilizes content ID technology.
