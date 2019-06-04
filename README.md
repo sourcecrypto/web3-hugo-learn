@@ -3,6 +3,9 @@
 
 ## [2016 Decentralized Web](https://2016.decentralizedweb.net/learn-more/)
 
+* https://github.com/internetarchive/dwebsummit-site/blob/master/contents/science-fair/index.md
+This is the full listing of headings below (in markdown\yaml).  ^^^ 
+
 ### #RebootingWebOfTrust
 At each Rebooting the Web of Trust event we collaboratively create white papers and specifications on topics that will have the greatest impact on the future of self-sovereign identity.
 WHAT IS WEB-OF-TRUST
