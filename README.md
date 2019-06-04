@@ -2,6 +2,9 @@
 
 a start at gathering information on decentralized web... 
 
+[![](https://cdn-images-1.medium.com/max/800/0*QDJ26V1pEdCBssOI.)](https://hackernoon.com/outgrowing-our-internet-caught-between-the-intranet-and-the-decentralized-web-707c532abbe2)
+* [Outgrowing Our Internet: Caught Between the Intranet and the Decentralized Web](https://hackernoon.com/outgrowing-our-internet-caught-between-the-intranet-and-the-decentralized-web-707c532abbe2) - Sep 13, 2017
+
 * [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web)
 
 ## [2016 Decentralized Web](https://2016.decentralizedweb.net/learn-more/)
