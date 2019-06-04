@@ -37,3 +37,13 @@ The events through the 1980s expose the need for an all-encompassing internet ro
 * Bittorent
 * Kazaa
 * Limewire
+
+
+## Extra
+
+* https://wiki.debian.org/eDonkey
+  >* aMule -aMule is a peer to peer file sharing application that works with the eDonkey computer network, but offers more features than the standard eDonkey client. It is based on the eMule sourcecode, and evolved from ?LMule and xMule. It is now the Linux client on the eMule links section on their webpage. As eMule, aMule is open source software released under the GNU ?GeneralPublicLicense.
+    * http://www.emule-project.net eMule project - or http://emule.sf.net eMule on Sourceforge
+    * http://www.freemule.net/ Freemule.net - Website with the latest news on eMule's legal actions
+    * http://www.amule.org aMule's homepage - or aMule on ?BerliOS
+    * http://wiki.amule.org/ aMule Wiki- Wiki of the aMule Project
