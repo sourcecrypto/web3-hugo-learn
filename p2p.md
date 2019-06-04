@@ -1,8 +1,6 @@
 # P2P
 
 * https://p2pfoundation.net
-* https://beincrypto.com/from-napster-to-bitcoin-the-evolution-of-peer-to-peer-networks/ (not the best)
-
 * [A Brief History of P2P Content Distribution, in 10 Major Steps](https://medium.com/paratii/a-brief-history-of-p2p-content-distribution-in-10-major-steps-6d6733d25122)
 ![](https://archive.is/TBEiO/d2c61b8561a81327ec44f649feb9ac177ee544c1.jpeg)
 
