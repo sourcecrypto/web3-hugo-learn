@@ -3,6 +3,9 @@
 * https://p2pfoundation.net
 * https://torrentfreak.com/the-history-of-filesharing-120422/
 * [A Brief History of P2P Content Distribution, in 10 Major Steps](https://medium.com/paratii/a-brief-history-of-p2p-content-distribution-in-10-major-steps-6d6733d25122)
+* https://www.lifewire.com/definition-of-p2p-818026
+* https://en.wikipedia.org/wiki/Timeline_of_file_sharing
+
 ![](https://archive.is/TBEiO/d2c61b8561a81327ec44f649feb9ac177ee544c1.jpeg)
 
 ## Pre-History
@@ -32,18 +35,16 @@ The events through the 1980s expose the need for an all-encompassing internet ro
 
 ### 2nd Gen - Decentralized
 
-* 1999 [Freenet](http://freenetproject.org/)	
 * 2000 - [Gnutella](http://rakjar.de/gnufu/index.php/Main_Page)
 * 2002 eMule (uses edonkey servers and has its own decentralized network)
   > [What is eMule?](https://www.emule-project.net/home/perl/general.cgi?l=1)
   > At dawn of  May 13th 2002 a guy called Merkur was dissatisfied with the original eDonkey2000 client and was convinced he could do better. So he did. He gathered other developers around him, and eMule Project was born. Their aim was to put the client back on track where eDonkey had been famous before, adding tons of new features and a nice GUI. They couldn't imagine what impact this decision would have...
-
 #### 2001 
-* [Blubster](http://web.archive.org/web/20010720062547/http://www.blubster.com/)
-* Kazaa
+  * [Blubster](http://web.archive.org/web/20010720062547/http://www.blubster.com/)
+  * [Kazaa](http://theinventors.org/library/inventors/bl_KaZaA.htm)
+* 2002 - [Ares](http://aresgalaxy.sourceforge.net/)
+* 2003 - [Waste](https://www.afterdawn.com/news/article.cfm/2003/05/31/nullsoft_releases_waste_--_aol_pulls_the_plug)
 * Limewire
-
-* [Ares](http://aresgalaxy.sourceforge.net/) - 2002
 * [Filetopia](http://www.filetopia.com/)
 * [DirectConnect](http://www.dslreports.com/faq/dc)
 
@@ -64,6 +65,10 @@ The events through the 1980s expose the need for an all-encompassing internet ro
 
 ## Extra
 
+* https://download.cnet.com/s/internet-file-sharing/windows/
+
+![](https://imgur.com/Qvp3WVx.png)
+  
 * https://wiki.debian.org/eDonkey
   >* aMule -aMule is a peer to peer file sharing application that works with the eDonkey computer network, but offers more features than the standard eDonkey client. It is based on the eMule sourcecode, and evolved from ?LMule and xMule. It is now the Linux client on the eMule links section on their webpage. As eMule, aMule is open source software released under the GNU ?GeneralPublicLicense.
     * http://www.emule-project.net eMule project - or http://emule.sf.net eMule on Sourceforge
