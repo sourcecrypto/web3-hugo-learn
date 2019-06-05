@@ -23,6 +23,7 @@ a start at gathering information on decentralized web...
 * [A Brief History of P2P Content Distribution, in 10 Major Steps](https://medium.com/paratii/a-brief-history-of-p2p-content-distribution-in-10-major-steps-6d6733d25122)
 * https://www.lifewire.com/definition-of-p2p-818026
 * https://en.wikipedia.org/wiki/Timeline_of_file_sharing
+* https://learnoutlive.com/a-brief-history-of-peer-to-peer-networks/
 
 ![](https://archive.is/TBEiO/d2c61b8561a81327ec44f649feb9ac177ee544c1.jpeg)
 
