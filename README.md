@@ -16,7 +16,7 @@ a start at gathering information on decentralized web...
 >During 1979 he conceived the first concept of a decentralized computer system known as Mix Network. It enabled for an anonymous email communications network which decentralized the authentication of the messages in a protocol which would become the precursor to Onion Routing, the protocol of the TOR browser. Through this initial development of an anonymous communications network, David Chaum applied his Mix Network philosophy to design the world's first decentralized payment system and patented it in 1980 (Patent US4529870). Later in 1982, for his PhD dissertation, he wrote about the need for decentralized computing services in the paper Computer Systems Established, Maintained and Trusted by Mutually Suspicious Groups. 
 
 
-# P2P
+# P2P \ Filesharing
 
 * https://p2pfoundation.net
 * https://torrentfreak.com/the-history-of-filesharing-120422/
@@ -24,6 +24,7 @@ a start at gathering information on decentralized web...
 * https://www.lifewire.com/definition-of-p2p-818026
 * https://en.wikipedia.org/wiki/Timeline_of_file_sharing
 * https://learnoutlive.com/a-brief-history-of-peer-to-peer-networks/
+* https://www.geek.com/gadgets/limewire-napster-the-pirate-bay-a-brief-history-of-file-sharing-1359473/
 
 ![](https://archive.is/TBEiO/d2c61b8561a81327ec44f649feb9ac177ee544c1.jpeg)
 
