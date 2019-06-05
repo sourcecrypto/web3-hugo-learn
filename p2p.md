@@ -48,12 +48,6 @@ The events through the 1980s expose the need for an all-encompassing internet ro
 * [DirectConnect](http://www.dslreports.com/faq/dc)
 
 
-##### Bittorent
-* https://www.wired.com/2017/01/the-inside-story-of-bittorrents-bizarre-collapse/
-
-* [visual.ly - infographic -history-bittorrent](https://visual.ly/community/infographic/technology/history-bittorrent)
-![](https://github.com/infominer33/decentralized-web/raw/master/a-history-of-bittorrent.png)
-
 ### After Bitcoin
 
 * 2009 -  Bitcoin
