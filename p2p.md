@@ -26,11 +26,6 @@ The events through the 1980s expose the need for an all-encompassing internet ro
 * 1988 - Internet routing (BGP) -RFC 1058. This is the oldest distance-vector routing protocol in its modern context. This begins to lay the groundwork for BGP.
 * August 1989 - Internet Relay Chat (IRC)
 
-### 1st Gen - Centralized
-
-* [June 1, 1999, Napster](https://www.lifewire.com/history-of-napster-2438592)
-  > Napster had a very different face when it first came into existence in 1999. The developers of the original Napster (brothers Shawn and John Fanning, along with Sean Parker) launched the service as a peer-to-peer (P2P) file sharing network. The software application was easy to use with a free account, and it was specifically designed for sharing digital music files (in the MP3 format) across a Web-connected network.
-* Sep 6, 2000, eDonkey2000 - Sued for copyright infringement.
 
 
 ### 2nd Gen - Decentralized
