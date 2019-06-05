@@ -18,6 +18,8 @@ a start at gathering information on decentralized web...
 
 # P2P \ Filesharing
 
+* https://www.oreilly.com/library/view/peer-to-peer/059600110X/ch01.html
+  > The Internet is a shared resource, a cooperative network built out of millions of hosts all over the world. Today there are more applications than ever that want to use the network, consume bandwidth, and send packets far and wide. Since 1994, the general public has been racing to join the community of computers on the Internet, placing strain on the most basic of resources: network bandwidth. And the increasing reliance on the Internet for critical applications has brought with it new security requirements, resulting in firewalls that strongly partition the Net into pieces. Through rain and snow and congested Network Access Providers (NAPs), the email goes through, and the system has scaled vastly beyond its original design.
 * https://p2pfoundation.net
 * https://torrentfreak.com/the-history-of-filesharing-120422/
 * [A Brief History of P2P Content Distribution, in 10 Major Steps](https://medium.com/paratii/a-brief-history-of-p2p-content-distribution-in-10-major-steps-6d6733d25122)
