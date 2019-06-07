@@ -50,9 +50,9 @@ The events through the 1980s expose the need for an all-encompassing internet ro
 
 ## P2P History
 
-### [1st Gen Centralized - Napster](https://github.com/infominer33/decentralized-web/blob/master/1st-gen-p2p-napster.md)
-### [2nd Gen Decentralized - BitTorrent](https://github.com/infominer33/decentralized-web/blob/master/2nd-gen-p2p-bittorrent.md)
-### [3rd Gen Darknets - Freenet](https://github.com/infominer33/decentralized-web/blob/master/3rd-gen-p2p-darknets.md)
+### [1st Gen Centralized - Napster](https://github.com/infominer33/decentralized-web/blob/master/static/1st-gen-p2p-napster.md)
+### [2nd Gen Decentralized - BitTorrent](https://github.com/infominer33/decentralized-web/blob/master/static/2nd-gen-p2p-bittorrent.md)
+### [3rd Gen Darknets - Freenet](https://github.com/infominer33/decentralized-web/blob/master/static/3rd-gen-p2p-darknets.md)
 
 
 ### After Bitcoin
