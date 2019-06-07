@@ -1,12 +1,14 @@
 baseURL = "https://infominer.id/decentralized-web"
 languageCode = "en-US"
 defaultContentLanguage = "en"
+publishdir = "docs"
+cleandestinationdir = true
+disablePathToLower = true
 
 title = "Decentralized Web - History"
 theme = ["hugo-jf2", "hugo-theme-learn"]
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
-disablePathToLower = true
 GoogleAnalytics = "UA-132558656-1"
 
 [params]
