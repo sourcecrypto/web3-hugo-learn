@@ -1,0 +1,121 @@
+baseURL = "https://infominer.id/decentralized-web"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "Decentralized Web - History"
+theme = ["hugo-jf2", "hugo-theme-learn"]
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+disablePathToLower = true
+GoogleAnalytics = "UA-132558656-1"
+
+[params]
+  editURL = "https://github.com/infominer33/decentralized-web/blob/master/content/"
+  description = "Documentation for Hugo Learn Theme"
+  author = "Mathieu Cornic"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  disableLanguageSwitchingButton = true
+  [Params.indieweb]
+    domain = "https://infominer.id/" # must end with a slash
+    webring = "🏔🐴🎑" # Get your IndieWeb Webring ID from https://xn--sr8hvo.ws
+    [Params.indieweb.webmention]
+      endpoint = "https://webmention.io/" # must end with a slash
+      account = "infominer.id"
+    # [Params.indieweb.micropub]
+    #   url = "nanopub/nanopub.php"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON", "JF2Feed"]
+
+[Languages]
+[Languages.en]
+title = "Documentation for Hugo Learn Theme"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/matcornic/hugo-theme-learn"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+url = "showcase"
+weight = 11
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+url = "/credits"
+weight = 30
+
+[Languages.fr]
+title = "Documentation du thème Hugo Learn"
+weight = 2
+languageName = "Français"
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> Repo GitHub"
+identifier = "ds"
+url = "https://github.com/matcornic/hugo-theme-learn"
+weight = 10
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Vitrine"
+url = "/showcase"
+weight = 11
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Documentation Hugo"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
+url = "/credits"
+weight = 30
+
+
+
+# Custom Output Formats defined: "JF2Post", "JF2Feed"
+
+# JF2 - https://www.w3.org/TR/jf2/
+# JF2 post
+# Add "JF2Post" to the Page Kinds under [outputs] (in your site config) for which
+# you want to enable JF2Post. As it is JF2 for posts, it would usually be only
+# for the "page" kind.
+# Example:
+#   [outputs]
+#     page = ["HTML", "JF2Post"]
+[mediaTypes."application/jf2post+json"]
+  suffixes = ["json"]
+[outputFormats.JF2Post]
+  mediaType = "application/jf2post+json"
+  baseName = "jf2post" # generated file = <baseName>.<mediaType."application/jf2post+json".suffixes[0]> = jf2post.json
+  isPlainText = true
+
+# JF2 feed
+# Add "JF2Feed" to the Page Kinds under [outputs] (in your site config) for which
+# you want to enable Jf2Feed feeds. As it is JF2 for feeds, it would usually be only
+# for the list Page Kinds.
+# Example:
+#   [outputs]
+#     home = ["HTML", "JF2Feed"]
+#     section = ["HTML", "JF2Feed"]
+#     taxonomy = ["HTML", "JF2Feed"]
+#     taxonomyTerm = ["HTML", "JF2Feed"]
+[mediaTypes."application/jf2feed+json"]
+  suffixes = ["json"]
+[outputFormats.JF2Feed]
+  mediaType = "application/jf2feed+json"
+  baseName = "jf2feed" # generated file = <baseName>.<mediaType."application/jf2feed+json".suffixes[0]> = jf2feed.json
+  isPlainText = true
