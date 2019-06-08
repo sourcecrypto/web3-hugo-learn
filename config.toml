@@ -13,20 +13,25 @@ GoogleAnalytics = "UA-132558656-1"
 
 [params]
   editURL = "https://github.com/infominer33/decentralized-web/blob/master/content/"
-  description = "Documentation for Hugo Learn Theme"
-  author = "Mathieu Cornic"
+  description = "A record of efforts to Decentralize the Web."
+  author = "Infominer"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
   disableLanguageSwitchingButton = true
-  [Params.indieweb]
-    domain = "https://infominer.id/" # must end with a slash
-    webring = "🏔🐴🎑" # Get your IndieWeb Webring ID from https://xn--sr8hvo.ws
-    [Params.indieweb.webmention]
-      endpoint = "https://webmention.io/" # must end with a slash
-      account = "infominer.id"
-    # [Params.indieweb.micropub]
-    #   url = "nanopub/nanopub.php"
+  # Disable search function. It will hide search bar
+  disableSearch = false
+  # Javascript and CSS cache are automatically busted when new version of site is generated. 
+  # Set this to true to disable this behavior (some proxies don't handle well this optimization)
+  disableAssetsBusting = true
+  # Set this to true to disable copy-to-clipboard button for inline code.
+  disableInlineCopyToClipBoard = false
+  # A title for shortcuts in menu is set by default. Set this to true to disable it. 
+  disableShortcutsTitle = false
+  # Order sections in menu by "weight" or "title". Default to "weight"
+  ordersectionsby = "weight"
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "green"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON", "JF2Feed"]

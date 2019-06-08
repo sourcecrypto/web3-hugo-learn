@@ -2,8 +2,10 @@
 title: "Decentralized Web Histories"
 ---
 
+# Histories related to the Decentralized Web 
 
 [![](https://cdn-images-1.medium.com/max/800/0*QDJ26V1pEdCBssOI.)](https://hackernoon.com/outgrowing-our-internet-caught-between-the-intranet-and-the-decentralized-web-707c532abbe2)
+
 * [Outgrowing Our Internet: Caught Between the Intranet and the Decentralized Web](https://hackernoon.com/outgrowing-our-internet-caught-between-the-intranet-and-the-decentralized-web-707c532abbe2) - Sep 13, 2017
 
 * [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web)
@@ -32,7 +34,9 @@ title: "Decentralized Web Histories"
 ![](https://archive.is/TBEiO/d2c61b8561a81327ec44f649feb9ac177ee544c1.jpeg)
 
 ## Pre-History
+
 https://datapath.io/resources/blog/the-history-of-border-gateway-protocol/
+
 * ARPANet 1969 ( or 1971 )
 * USENET, 1979 -  Network News Transfer Protocol (NNTP)
 * Gateway-to-gateway protocol (GGP) 1982  - its only focus was routing based on the number of AS hops. GGP focused on routing internet transit the fewest number of autonomous system (AS) hops to a destination.
@@ -76,12 +80,12 @@ The events through the 1980s expose the need for an all-encompassing internet ro
 
 ![](https://imgur.com/Qvp3WVx.png)
   
-* https://wiki.debian.org/eDonkey
-  >* aMule -aMule is a peer to peer file sharing application that works with the eDonkey computer network, but offers more features than the standard eDonkey client. It is based on the eMule sourcecode, and evolved from ?LMule and xMule. It is now the Linux client on the eMule links section on their webpage. As eMule, aMule is open source software released under the GNU ?GeneralPublicLicense.
-    * http://www.emule-project.net eMule project - or http://emule.sf.net eMule on Sourceforge
-    * http://www.freemule.net/ Freemule.net - Website with the latest news on eMule's legal actions
-    * http://www.amule.org aMule's homepage - or aMule on ?BerliOS
-    * http://wiki.amule.org/ aMule Wiki- Wiki of the aMule Project
+> aMule -aMule is a peer to peer file sharing application that works with the eDonkey computer network, but offers more features than the standard eDonkey client. It is based on the eMule sourcecode, and evolved from ?LMule and xMule. It is now the Linux client on the eMule links section on their webpage. As eMule, aMule is open source software released under the GNU ?GeneralPublicLicense. -https://wiki.debian.org/eDonkey
+
+* http://www.emule-project.net eMule project - or http://emule.sf.net eMule on Sourceforge
+* http://www.freemule.net/ Freemule.net - Website with the latest news on eMule's legal actions
+* http://www.amule.org aMule's homepage - or aMule on ?BerliOS
+* http://wiki.amule.org/ aMule Wiki- Wiki of the aMule Project
 
 
 
