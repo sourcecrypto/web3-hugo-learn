@@ -1,8 +1,7 @@
-baseURL = "https://infominer.id/decentralized-web"
+baseURL = "https://decentralized-web.info"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 publishdir = "docs"
-cleandestinationdir = true
 disablePathToLower = true
 
 title = "Decentralized Web - History"
