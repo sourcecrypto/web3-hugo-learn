@@ -1,6 +1,6 @@
 [build]
-  publish = "decentralized-web/docs"
-  command = "hugo -s"
+  publish = "docs"
+  command = "hugo"
 
 [build.environment]
   HUGO_VERSION = "0.55.5"
@@ -9,13 +9,13 @@
   HUGO_BASEURL = "https://decentralized-web.info/"
 
 [context.deploy-preview]
-  command = "hugo -s -b"
+  command = "hugo -b"
 
 [context.deploy-preview.environment]
   HUGO_ENABLEGITINFO = "true"
 
 [context.branch-deplpy]
-  command = "hugo -s -b $DEPLOY_PRIME_URL"
+  command = "hugo -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
   HUGO_ENABLEGITINFO = "true"
