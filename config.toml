@@ -1,4 +1,4 @@
-baseURL = "https://decentralized-web.info"
+baseURL = "https://sourcecrypto.pub/decentralized-web/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 publishdir = "docs"
@@ -8,10 +8,10 @@ title = "Decentralized Web - History"
 theme = ["hugo-jf2", "hugo-theme-learn"]
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
-GoogleAnalytics = "UA-132558656-1"
+GoogleAnalytics = "UA-132558656-4"
 
 [params]
-  editURL = "https://github.com/infominer33/decentralized-web/blob/master/content/"
+  editURL = "https://github.com/sourcecrypto/decentralized-web/blob/master/content/"
   description = "A record of efforts to Decentralize the Web."
   author = "Infominer"
   showVisitedLinks = true
